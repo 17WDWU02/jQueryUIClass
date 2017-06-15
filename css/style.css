@@ -1,0 +1,51 @@
+.box{
+	width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	float: left;
+}
+
+.container{
+	width: 1000px;
+	height: 600px;
+	border: 1px solid black;
+	clear: both;
+}
+
+#box2{
+	height: 500px;
+	width: 500px;
+	background-color: grey;
+	float: right;
+}
+
+.red{
+	background-color: red !important;
+}
+
+.ListItem{
+	height: 50px;
+	width: 100px;
+	border: 1px solid black;
+	list-style: none;
+}
+
+#selectable .ui-selecting{
+	color: red;
+}
+
+#selectable .ui-selected{
+	background-color: blue;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
